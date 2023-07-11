@@ -1,1 +1,1 @@
-Data Analyst|Power BI |SQL
+I'm a Data Analyst with specialized knowledge in Power BI, SQL, and Python. My passion lies in unlocking the potential of data and transforming it into actionable insights for businesses. With my diverse skill set, I help organizations derive valuable information from their data and enable them to make well-informed decisions.
