@@ -1,1 +1,22 @@
-I'm a Data Analyst with specialized knowledge in Power BI, SQL, and Python. My skills focus on unlocking the potential of data and transforming it into actionable insights for businesses. With my diverse skill set, I help organizations derive valuable information from their data and enable them to make well-informed decisions.
+This GitHub profile showcases my projects related to database design, development, management & Data Analysis skills.
+
+Database Expertise:
+SQL Programming
+Familiarity with various database platforms (PostgreSQL, Microsoft SQL Server)
+
+Technical Skills:
+Programming Languages: (Python)
+Operating Systems: ( Windows, Linux)
+
+Soft Skills:
+Excellent analytical and problem-solving skills
+Strong attention to detail and accuracy
+Effective communication and collaboration skills
+
+Looking to:
+Gain practical experience in a database management role
+Contribute to the optimization and maintenance of existing databases
+Learn from experienced database professionals
+
+Let's connect!
+LinkedIn profile - linkedin.com/in/victorebuka007/
