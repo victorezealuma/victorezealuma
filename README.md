@@ -2,7 +2,7 @@ This GitHub profile showcases my projects related to database design, developmen
 
 **Database Expertise:**
 
-SQL Programming
+SQL Programming <br>
 Familiarity with various database platforms (PostgreSQL, Microsoft SQL Server)
 
 **Technical Skills:**
