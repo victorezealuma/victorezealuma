@@ -1,6 +1,7 @@
 This GitHub profile showcases my projects related to database design, development, management & Data Analysis skills.
 
 Database Expertise:
+
 SQL Programming
 Familiarity with various database platforms (PostgreSQL, Microsoft SQL Server)
 
@@ -19,4 +20,5 @@ Contribute to the optimization and maintenance of existing databases
 Learn from experienced database professionals
 
 Let's connect!
+
 LinkedIn profile - linkedin.com/in/victorebuka007/
