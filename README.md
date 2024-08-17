@@ -1,13 +1,10 @@
 This GitHub profile showcases my projects on Data Analysis.
 
-**Database Expertise:** <br>
-SQL Programming <br>
-Familiarity with various database platforms (PostgreSQL, Microsoft SQL Server)
-
 **Technical Skills:** <br>
 Python Programming <br>
-SQL <br>
+SQL Programming <br>
 BI Tool (Microsoft Power BI) <br>
+Familiarity with various database platforms (PostgreSQL, Microsoft SQL Server)
 Operating Systems: (Windows)
 
 **Soft Skills:** <br>
