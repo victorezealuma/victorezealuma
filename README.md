@@ -5,8 +5,7 @@ SQL Programming <br>
 Familiarity with various database platforms (PostgreSQL, Microsoft SQL Server)
 
 **Technical Skills:** <br>
-Programming Languages: <br>
-(Python) <br>
+Python Programming <br>
 SQL <br>
 BI Tool (Microsoft Power BI) <br>
 Operating Systems: (Windows)
