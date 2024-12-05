@@ -1,11 +1,11 @@
 This GitHub profile showcases my projects on Data Analysis.
 
 **Technical Skills:** <br>
-Python Programming <br>
-SQL Programming <br>
-BI Tool (Microsoft Power BI) <br>
+* Python Programming <br>
+* SQL Programming <br>
+* BI Tool (Microsoft Power BI) <br>
 Familiarity with various database platforms (PostgreSQL, Microsoft SQL Server) <br>
-Operating Systems: (Windows)
+
 
 **Soft Skills:** <br>
 Excellent analytical and problem-solving skills <br>
@@ -17,5 +17,3 @@ Continously progress in my career as an analyst <br>
 Contribute to the optimization and maintenance of existing databases <br>
 Collaborate with experienced professionals on projects
 
-**Let's connect!** <br>
-LinkedIn profile - linkedin.com/in/victorebuka007/
